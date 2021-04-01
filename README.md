@@ -11,3 +11,5 @@
 > ubuntu版wireguard+udpspeeder+udp2raw一键脚本 | ubuntu >= 14.04
 
 
+atrandys
+yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard/master/wireguard_game.sh && chmod +x wireguard_game.sh && ./wireguard_game.sh
