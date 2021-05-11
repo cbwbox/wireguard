@@ -13,3 +13,6 @@
 
 atrandys
 yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard/master/wireguard_game.sh && chmod +x wireguard_game.sh && ./wireguard_game.sh
+
+
+curl -O https://raw.githubusercontent.com/cbwbox/wireguard/master/wg_mult.sh && chmod +x wg_mult.sh && ./wg_mult.sh
